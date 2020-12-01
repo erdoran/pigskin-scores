@@ -1,0 +1,91 @@
+
+<div class="live-update">
+<div class="top-bar">
+<div class="game-status emphasis">
+                            4<span>th</span> 8:03
+                    </div>
+<div class="broadcaster">
+                                                            FOX
+                                                </div>
+</div>
+<div class="in-progress-table section">
+<table><thead><tr><th> </th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>T</th>
+</tr></thead><tbody><tr><td class="team">
+<span class="helper-team-logo">
+<a href="https://www.cbssports.com/nfl/teams/MIA/miami-dolphins/">
+<img alt="team logo" class="mini-team-logo-small" src="https://sportsfly.cbsistatic.com/fly-957/bundles/sportsmediacss/images/team-logos/nfl/MIA.svg"/></a>
+</span>
+<a class="team helper-team-name" href="https://www.cbssports.com/nfl/teams/MIA/miami-dolphins/">Dolphins</a>
+<span class="record">1-3</span>
+</td>
+<td class="scores">14</td>
+<td class="scores">16</td>
+<td class="scores">7</td>
+<td class="scores">3</td>
+<td class="total-score">40</td>
+</tr><tr><td class="team">
+<span class="marker"><span class="icon-moon-round-unchecked"></span></span>
+<span class="helper-team-logo">
+<a href="https://www.cbssports.com/nfl/teams/SF/san-francisco-49ers/">
+<img alt="team logo" class="mini-team-logo-small" src="https://sportsfly.cbsistatic.com/fly-957/bundles/sportsmediacss/images/team-logos/nfl/SF.svg"/></a>
+</span>
+<a class="team helper-team-name" href="https://www.cbssports.com/nfl/teams/SF/san-francisco-49ers/">49ers</a>
+<span class="record">2-2</span>
+</td>
+<td class="scores">0</td>
+<td class="scores">7</td>
+<td class="scores">10</td>
+<td class="scores">0</td>
+<td class="total-score">17</td>
+</tr></tbody></table></div>
+<div class="section series-statement">
+</div>
+<div class="section status-statement">
+<div class="top-bar">
+<div class="game-status">4<span>th</span> &amp; 2 on SF 33</div>
+<div class="game-status-two">SF -8, o50.5</div>
+</div>
+<table><tbody><tr><td class="label">Last</td>
+<td>
+<span class="subheading">3RD &amp; 1 on SF 34</span>
+<span class="other-info"><strong>8:14</strong> R. Mostert rush for -1 yd</span>
+</td>
+</tr></tbody></table></div>
+<div class="section team-player-stats">
+<table><thead><th class="label"></th>
+<th class="label">DOLPHINS</th>
+<th class="label">49ERS</th>
+</thead><tbody><tr><td class="label">PASS</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/547043/ryan-fitzpatrick" target="_blank">R. Fitzpatrick</a>
+<span>350 YDs, 3 TDs</span>
+</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/1760229/jimmy-garoppolo" target="_blank">J. Garoppolo</a>
+<span>77 YDs, 2 INTs</span>
+</td>
+</tr><tr><td class="label">RUSH</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/2180360/myles-gaskin" target="_blank">M. Gaskin</a>
+<span>12 ATT, 46 YDs, 1 TD</span>
+</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/2174957/raheem-mostert" target="_blank">R. Mostert</a>
+<span>11 ATT, 90 YDs</span>
+</td>
+</tr><tr><td class="label">REC</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/3117057/preston-williams" target="_blank">P. Williams</a>
+<span>4 REC, 106 YDs, 1 TD</span>
+</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/2818265/george-kittle" target="_blank">G. Kittle</a>
+<span>3 REC, 35 YDs</span>
+</td>
+</tr></tbody></table></div>
+</div>

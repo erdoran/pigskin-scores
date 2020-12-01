@@ -1,0 +1,63 @@
+"C:\Program Files (x86)\Python\python.exe" "C:/Users/Evan/IdeaProjects/MLB Score Scrape/src/Score.py"
+<div class="live-update">
+<div class="top-bar">
+<div class="game-status pregame">
+<span class="game-status pregame-date" data-format-datetime='{"value": "1602435600", "format": "E MMM d, h:mma", "formatForToday": "h:mma" }'>
+                            SUN OCT 11, 1:00pm
+                        </span>
+</div>
+<div class="broadcaster">
+<span class="icon-moon-cbs-icon"></span>
+</div>
+</div>
+<div class="in-progress-table section">
+<table><thead><tr><th></th>
+<th></th>
+</tr></thead><tbody><tr><td class="team">
+<span class="helper-team-logo">
+<a href="https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/">
+<img alt="team logo" class="mini-team-logo-small" src="https://sportsfly.cbsistatic.com/fly-957/bundles/sportsmediacss/images/team-logos/nfl/JAC.svg"/></a>
+</span>
+<a class="team helper-team-name" href="https://www.cbssports.com/nfl/teams/JAC/jacksonville-jaguars/">Jaguars</a>
+<span class="record">1-3</span>
+</td>
+<td class="in-progress-odds in-progress-odds-total">
+                                    o54.5
+                            </td>
+</tr><tr><td class="team">
+<span class="helper-team-logo">
+<a href="https://www.cbssports.com/nfl/teams/HOU/houston-texans/">
+<img alt="team logo" class="mini-team-logo-small" src="https://sportsfly.cbsistatic.com/fly-957/bundles/sportsmediacss/images/team-logos/nfl/HOU.svg"/></a>
+</span>
+<a class="team helper-team-name" href="https://www.cbssports.com/nfl/teams/HOU/houston-texans/">Texans</a>
+<span class="record">0-4</span>
+</td>
+<td class="in-progress-odds in-progress-odds-home">
+                                    -5.5
+                            </td>
+</tr></tbody></table></div>
+<div class="section series-statement">
+</div>
+<div class="video-link-item" data-game-abbr="NFL_20201011_JAC@HOU" data-pcid="962bc6e9-0f97-4bfc-b81a-f83b803b6ce2">
+<div class="video-link-item-spacer"></div>
+<div class="video-link-item-content" data-component="modalButton" data-modal-button-options='{"content":"ICAgICAgICAgICAgICAgICAgICAgICAgCgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICA8ZGl2IGNsYXNzPSJFbWJlZFZpZGVvUGxheWVyQ29udGFpbmVyICI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgZGF0YS1jb21wb25lbnQ9J3ZpZGVvSGFuZGxlcicgID48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBpZD0iZW1iZWRWaWRlb0NvbnRhaW5lcl9zY29yZWJvYXJkLXZpZGVvIiBjbGFzcz0iRW1iZWRWaWRlb1BsYXllciAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGlmcmFtZQogICAgICAgICAgICAgICAgICAgIGFsbG93dHJhbnNwYXJlbmN5PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgIGFsbG93ZnVsbHNjcmVlbj0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBjbGFzcz0iIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9ImVtYmVkVmlkZW9fc2NvcmVib2FyZC12aWRlbyIKICAgICAgICAgICAgICAgICAgICBmcmFtZWJvcmRlcj0iMCIKICAgICAgICAgICAgICAgICAgICBzcmM9Imh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vcGxheWVyL2VtYmVkLz9hcmdzPXBsYXllcl9pZCUzRHNjb3JlYm9hcmQtdmlkZW8lMjZlbnYlM0Rwcm9kJTI2Y2hhbm5lbCUzRHRlYW0lMjUzQU5GTCUyNTNBSkFDJTI1MkN0ZWFtJTI1M0FORkwlMjUzQUhPVSUyNnJlc2l6YWJsZSUzRDElMjZhdXRvcGxheSUzRHRydWUlMjZjb21wX2Fkc19lbmFibGVkJTNEZmFsc2UlMjZyZXNwb25zaXZlJTNEdHJ1ZSUyNndhdGNoQW5kUmVhZCUzRDAlMjZpZHMlM0Q5NjJiYzZlOS0wZjk3LTRiZmMtYjgxYS1mODNiODAzYjZjZTIlMjUyQ2MyZmU5OGQzLTE0YTQtNGNjOS1hMDdmLTU4Y2JiMDdhNDIzMCUyNmRvbWFpbiUzRGNic3Nwb3J0cy5jb20iCiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0PSIxODAiCiAgICAgICAgICAgICAgICAgICAgbWFyZ2luaGVpZ2h0PSIwIgogICAgICAgICAgICAgICAgICAgIG1hcmdpbndpZHRoPSIwIgogICAgICAgICAgICAgICAgICAgIG5hbWU9ImVtYmVkVmlkZW9fc2NvcmVib2FyZC12aWRlbyIKICAgICAgICAgICAgICAgICAgICBzY3JvbGxpbmc9Im5vIgogICAgICAgICAgICAgICAgICAgIHdpZHRoPSIzMjAiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8L2lmcmFtZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg","encoding":"base64"}' style="background-image: url('https://sportshub.cbsistatic.com/i/r/2020/09/27/c08d5e5e-5487-4236-9be8-91db6cc004d6/thumbnail/640x360/95922994b81ed79320c7af6ab1f56d37/watson.jpg')">
+<div class="video-link-item-play image-icon-overlay size-medium type-video"></div>
+<div class="video-link-item-footer">
+<h3 class="video-link-item-title">
+                                    Week 5 Betting Preview: Jaguars at Texans
+                                </h3>
+<div class="video-link-item-duration">
+                                    1:42
+                                </div>
+</div>
+</div>
+</div>
+<div class="all-access scoreboard">
+<a class="all-access-link" href="https://www.cbs.com/all-access/live-tv/?ftag=PPM-22-10aac0b" target="_blank">
+<span class="all-access-link-text preview">Get Started</span>
+<span class="all-access-link-text">Stream Live</span>
+</a>
+</div>
+</div>
+
+Process finished with exit code 0

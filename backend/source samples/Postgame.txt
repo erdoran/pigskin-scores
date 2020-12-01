@@ -1,0 +1,93 @@
+"C:\Program Files (x86)\Python\python.exe" "C:/Users/Evan/IdeaProjects/MLB Score Scrape/src/Score.py"
+<div class="live-update">
+<div class="top-bar">
+<div class="game-status postgame">FINAL</div>
+<div class="broadcaster">
+</div>
+</div>
+<div class="in-progress-table section">
+<table><thead><tr><th> </th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>T</th>
+</tr></thead><tbody><tr><td class="team">
+<span class="helper-team-logo">
+<a href="https://www.cbssports.com/nfl/teams/TB/tampa-bay-buccaneers/">
+<img alt="team logo" class="mini-team-logo-small" src="https://sportsfly.cbsistatic.com/fly-957/bundles/sportsmediacss/images/team-logos/nfl/TB.svg"/></a>
+</span>
+<a class="team helper-team-name" href="https://www.cbssports.com/nfl/teams/TB/tampa-bay-buccaneers/">Buccaneers</a>
+<span class="record">3-2</span>
+</td>
+<td class="scores">10</td>
+<td class="scores">3</td>
+<td class="scores">3</td>
+<td class="scores">3</td>
+<td class="total-score">19</td>
+</tr><tr><td class="team">
+<span class="marker"><span class="icon-moon-caret-right"></span></span>
+<span class="helper-team-logo">
+<a href="https://www.cbssports.com/nfl/teams/CHI/chicago-bears/">
+<img alt="team logo" class="mini-team-logo-small" src="https://sportsfly.cbsistatic.com/fly-957/bundles/sportsmediacss/images/team-logos/nfl/CHI.svg"/></a>
+</span>
+<a class="team helper-team-name" href="https://www.cbssports.com/nfl/teams/CHI/chicago-bears/">Bears</a>
+<span class="record">4-1</span>
+</td>
+<td class="scores">0</td>
+<td class="scores">14</td>
+<td class="scores">0</td>
+<td class="scores">6</td>
+<td class="total-score">20</td>
+</tr></tbody></table></div>
+<div class="section series-statement">
+</div>
+<div class="video-link-item" data-game-abbr="NFL_20201008_TB@CHI" data-pcid="c2fe98d3-14a4-4cc9-a07f-58cbb07a4230">
+<div class="video-link-item-spacer"></div>
+<div class="video-link-item-content" data-component="modalButton" data-modal-button-options='{"content":"ICAgICAgICAgICAgICAgICAgICAgICAgCgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICA8ZGl2IGNsYXNzPSJFbWJlZFZpZGVvUGxheWVyQ29udGFpbmVyICI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgZGF0YS1jb21wb25lbnQ9J3ZpZGVvSGFuZGxlcicgID48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBpZD0iZW1iZWRWaWRlb0NvbnRhaW5lcl9zY29yZWJvYXJkLXZpZGVvIiBjbGFzcz0iRW1iZWRWaWRlb1BsYXllciAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGlmcmFtZQogICAgICAgICAgICAgICAgICAgIGFsbG93dHJhbnNwYXJlbmN5PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgIGFsbG93ZnVsbHNjcmVlbj0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBjbGFzcz0iIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9ImVtYmVkVmlkZW9fc2NvcmVib2FyZC12aWRlbyIKICAgICAgICAgICAgICAgICAgICBmcmFtZWJvcmRlcj0iMCIKICAgICAgICAgICAgICAgICAgICBzcmM9Imh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vcGxheWVyL2VtYmVkLz9hcmdzPXBsYXllcl9pZCUzRHNjb3JlYm9hcmQtdmlkZW8lMjZlbnYlM0Rwcm9kJTI2Y2hhbm5lbCUzRHRlYW0lMjUzQU5GTCUyNTNBVEIlMjUyQ3RlYW0lMjUzQU5GTCUyNTNBQ0hJJTI2cmVzaXphYmxlJTNEMSUyNmF1dG9wbGF5JTNEdHJ1ZSUyNmNvbXBfYWRzX2VuYWJsZWQlM0RmYWxzZSUyNnJlc3BvbnNpdmUlM0R0cnVlJTI2d2F0Y2hBbmRSZWFkJTNEMCUyNmlkcyUzRGMyZmU5OGQzLTE0YTQtNGNjOS1hMDdmLTU4Y2JiMDdhNDIzMCUyNmRvbWFpbiUzRGNic3Nwb3J0cy5jb20iCiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0PSIxODAiCiAgICAgICAgICAgICAgICAgICAgbWFyZ2luaGVpZ2h0PSIwIgogICAgICAgICAgICAgICAgICAgIG1hcmdpbndpZHRoPSIwIgogICAgICAgICAgICAgICAgICAgIG5hbWU9ImVtYmVkVmlkZW9fc2NvcmVib2FyZC12aWRlbyIKICAgICAgICAgICAgICAgICAgICBzY3JvbGxpbmc9Im5vIgogICAgICAgICAgICAgICAgICAgIHdpZHRoPSIzMjAiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8L2lmcmFtZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg","encoding":"base64"}' style="background-image: url('https://sportshub.cbsistatic.com/i/r/2020/10/09/4cbc8781-d6b9-4003-ba77-72b22c22d3da/thumbnail/640x360/82f413bc588742fe6a725c2bd9945df4/foles.jpg')">
+<div class="video-link-item-play image-icon-overlay size-medium type-video"></div>
+<div class="video-link-item-footer">
+<h3 class="video-link-item-title">
+                                    TNF Highlights: Buccaneers at Bears
+                                </h3>
+<div class="video-link-item-duration">
+                                    5:26
+                                </div>
+</div>
+</div>
+</div>
+<div class="section team-player-stats">
+<table><thead><th class="label"></th>
+<th class="label">BUCCANEERS</th>
+<th class="label">BEARS</th>
+</thead><tbody><tr><td class="label">PASS</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/187741/tom-brady" target="_blank">T. Brady</a>
+<span>253 YDs, 1 TD</span>
+</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/1631750/nick-foles" target="_blank">N. Foles</a>
+<span>243 YDs, 1 TD, 1 INT</span>
+</td>
+</tr><tr><td class="label">RUSH</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/2180329/ronald-jones" target="_blank">R. Jones</a>
+<span>17 ATT, 106 YDs</span>
+</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/2261252/david-montgomery" target="_blank">D. Montgomery</a>
+<span>10 ATT, 29 YDs, 1 TD</span>
+</td>
+</tr><tr><td class="label">REC</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/1620002/tyler-johnson" target="_blank">T. Johnson</a>
+<span>4 REC, 61 YDs</span>
+</td>
+<td>
+<a class="player-name" href="http://www.cbssports.com/nfl/players/playerpage/1889923/allen-robinson" target="_blank">A. Robinson</a>
+<span>10 REC, 90 YDs</span>
+</td>
+</tr></tbody></table></div>
+</div>
+
+Process finished with exit code 0

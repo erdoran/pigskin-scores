@@ -1,0 +1,16 @@
+{
+        "home_team": "Giants",
+        "away_team": "Buccaneers",
+        "home_score": "17",
+        "away_score": "15",
+        "home_record": "1-6",
+        "away_record": "5-2",
+        "game_status": 1,
+        "quarter": "End",
+        "time": "3rd",
+        "start_time": "IN PROGRESS",
+        "game_day": "IN PROGRESS",
+        "game_month": "IN PROGRESS",
+        "game_date": "IN PROGRESS",
+        "broadcast_network": "ESPN"
+    },
