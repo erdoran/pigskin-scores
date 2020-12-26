@@ -24,7 +24,6 @@ def main():
         if game.game_data["game_valid"]:
             games.append(game)
     export_data.create_json_file(games)
-    export_data.upload_data()
 
 
 main()
