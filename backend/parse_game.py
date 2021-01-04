@@ -115,7 +115,13 @@ def set_game_start_time(game, game_soup):
                     MONTHS[datetime.datetime.today().month]
                 game.game_data["game_date"] =\
                     str(datetime.datetime.today().day)  # Convert to string
-                game.game_data["start_time"] = start_time[0]
+
+                # Fixes issue with Sunday Night game displaying day instead of time
+                if len(start_time) > 1:
+                    game.game_data["start_time"] = start_time[1]
+                else:
+                    game.game_data["start_time"] = start_time[0]
+
 
         # In progress conditional
         elif game.game_data["game_status"] == 1:
