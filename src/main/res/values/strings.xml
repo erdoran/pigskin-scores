@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pigskin Scores</string>
+
+    <!-- String resource for toolbar button -->
+    <string name="toolbar_btn_text">UPDATE SCORES</string>
+
+    <!-- String resource for Snackbar -->
+    <string name="no_connection_snackbar_string">Update Failed: No internet connection</string>
+
+    <!-- String resources for Fragment NoConnection -->
+    <string name="no_connection_frag_string1">There was an error attempting to obtain the latest scores</string>
+    <string name="no_connection_frag_string2">Please check that you are connected to the internet and try again</string>
+
+    <!--String resources for Fragment ScoreFragment-->
+    <string name="scoreFragment_gameDate">%1$s %2$s, %3$s</string>
+    <string name="scoreFragment_startTime">%1$s EST</string>
+    <string name="scoreFragment_teamRecord">(%1$s)</string>
+    <string name="scoreFragment_quarter">%1$s Quarter</string>
+    <string name="scoreFragment_halftime">HALFTIME</string>
+    <string name="scoreFragment_final">FINAL</string>
+    <string name="no_connection_img_cd">No connection image</string>
+</resources>

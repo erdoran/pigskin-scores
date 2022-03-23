@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="no_connection" format="reference" />
+
+    <style name="NoConnectionImgStyle" parent="Theme.PigskinScores">
+        <item name="android:layout_width">@dimen/no_connection_img_dimen</item>
+        <item name="android:layout_height">@dimen/no_connection_img_dimen</item>
+        <item name="android:contentDescription">@string/no_connection_img_cd</item>
+        <item name="android:src">?attr/no_connection</item>
+    </style>
+
+    <style name="NoConnectionTextStyle" parent="TextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">@dimen/no_connection_frag_pad</item>
+        <item name="android:paddingEnd">@dimen/no_connection_frag_pad</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/no_connection_frag_text_size</item>
+    </style>
+</resources>

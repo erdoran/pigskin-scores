@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextViewStyle" parent="Theme.PigskinScores">
+        <item name="android:fontFamily">@font/open_sans</item>
+    </style>
+
+    <style name="BroadcastNetworkTextStyle" parent="TextViewStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TeamNameTextStyle" parent="TextViewStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="GameTimeInfoTextStyle" parent="TextViewStyle">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="RecordTextStyle" parent="TextViewStyle">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="ScoreTextStyle" parent="TextViewStyle">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="GameFinalTextStyle" parent="TextViewStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

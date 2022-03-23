@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="border_width">1dp</dimen>
+    <dimen name="btn_radius">50dp</dimen>
+    <dimen name="btn_text_size">13sp</dimen>
+    <dimen name="btn_padding">15dp</dimen>
+    <dimen name="btn_margin">10dp</dimen>
+    <dimen name="no_connection_frag_pad">10dp</dimen>
+    <dimen name="no_connection_frag_text_size">18sp</dimen>
+    <dimen name="no_connection_img_dimen">100dp</dimen>
+</resources>
